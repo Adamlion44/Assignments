@@ -1,2 +1,2 @@
 # Assignments
-This is my sentiment for Exem
+This is my assignment for Exem
